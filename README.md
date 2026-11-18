@@ -1,21 +1,15 @@
 # A Quiet Celebration — Learning to Be Enough
 
+## Preview
+---
 
+![A Quiet Celebration — website preview](doc/ss1.png)
 
-\
-
+---
 
 > *A quiet space to celebrate yourself, embrace solitude, and learn that being enough has always been a beautiful thing.*
 
 **A Quiet Celebration** is an interactive web experience about self-acceptance, solitude, gratitude, personal reflection, and making peace with yourself. Through atmospheric visuals, gentle animations, and a series of interactive scenes, this project invites you to slow down and appreciate the person you are becoming.
-
----
-
-## Preview
-
-\<p align="center">   \<img src="doc/ss1.png" alt="A Quiet Celebration Website Preview" width="100%"> \</p>
-
----
 
 ## About the Project
 
